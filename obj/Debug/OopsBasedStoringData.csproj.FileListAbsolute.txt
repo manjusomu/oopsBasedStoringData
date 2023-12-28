@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\phase 1 simplilearn\c# Projec4\OopsBasedStoringData\OopsBasedStoringData\bin\Debug\OopsBasedStoringData.exe.config
+C:\Users\LENOVO\Documents\phase 1 simplilearn\c# Projec4\OopsBasedStoringData\OopsBasedStoringData\bin\Debug\OopsBasedStoringData.exe
+C:\Users\LENOVO\Documents\phase 1 simplilearn\c# Projec4\OopsBasedStoringData\OopsBasedStoringData\bin\Debug\OopsBasedStoringData.pdb
+C:\Users\LENOVO\Documents\phase 1 simplilearn\c# Projec4\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\phase 1 simplilearn\c# Projec4\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\phase 1 simplilearn\c# Projec4\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.exe
+C:\Users\LENOVO\Documents\phase 1 simplilearn\c# Projec4\OopsBasedStoringData\OopsBasedStoringData\obj\Debug\OopsBasedStoringData.pdb
